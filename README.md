@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **about Open Source & Machine Learning**
 
-- 💬 Ask me about **Anyting :)**
+- 💬 Ask me about **Travel and Anime 🦑**
 - <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coffee-0&show_icons=true&locale=en&layout=compact" alt="coffee-0" /></p>
 <br>
