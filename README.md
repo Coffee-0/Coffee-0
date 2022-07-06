@@ -1,16 +1,17 @@
-<h1 align="center">Hi there 👋 I'm Hemanth</h1>
+<h2 align="center">Hi there 👋</h2>
+<h1 align="center">I'm Hemanth</h1>
 <br>
 <h3 align="center">I'm a Computer-Science student and a self-taught Programmer 🥲</h3>
 <br>
 
-- 🔭 I’m currently **looking for Internship opportunities to learn more tech. and make contributions that matter 🙂**
+- 🔭 I’m currently **exploring & working with web and web-technologies🙂**
 
-- ⚡ Fun fact **I'm also actively learning about Business and Economics.**
+- 🌱 I want to learn more **about Open Source**
 
-- 🌱 I’m currently learning **about Open Source & Machine Learning**
+- 🧙🏿‍♂️ I usually try my best to **keep myself engaged in learning of new things and acquiring new skills**
 
-- 💬 Ask me about **Travel and Anime 🦑**
-- <br>
+- 💬 Ask me about **Business, Economics and Product-Development 🤓**
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coffee-0&show_icons=true&locale=en&layout=compact" alt="coffee-0" /></p>
 <br>
 <h3 align="left">Languages</h3>
