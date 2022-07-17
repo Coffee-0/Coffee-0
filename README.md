@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Business, Economics and Product-Development 🤓**
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coffee-0&show_icons=true&locale=en&layout=compact" alt="coffee-0" /></p>
+
 <br>
 <h3 align="left">Languages</h3>
 <br>
